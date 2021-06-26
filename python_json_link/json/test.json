@@ -1,0 +1,25 @@
+{
+	"g_field": [
+		{
+			"type": "uint",
+			"owner": "hospital",
+			"name": "count"
+		}
+	],
+	"functions": [
+		{
+			"signature": "signature",
+			"args": [
+				{
+					"type": "address",
+					"name": "don"
+				},
+				{
+					"type": "bool",
+					"owner": "me",
+					"name": "r"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"g_field" :[
+				{
+					"type": "uint",
+					"owner" : "hospital",
+					"name": "count"
+				},
+				{
+					"type": "mapping",
+					"k_type": "address",
+					"v_type": "bool",
+					"owner" : "x",
+					"name" : "risk"
+				} 
+			],
+	"functions":[
+		{
+			"signature" : "6f0d85bb",
+			"args" : [
+				{
+					"type": "address",
+					"name": "don"
+				},
+				{
+					"type": "bool",
+					"owner": "me",
+					"name": "r"
+				}
+			]
+		}
+	]
+}
