@@ -2,7 +2,7 @@
 
 ## Antlr Pretty Print tinyc 구현
 
-### 1. JAVA
+### 1. [JAVA](./prettyPrintJava)
 
 antlr-v4.jar 파일 사용
 
@@ -14,7 +14,7 @@ antlr-v4.jar 파일 사용
 
   visit으로 문자열 연결
 
-### 2. Python
+### 2. [Python](./prettyPrintPython)
 
   (1) Listener 로 구현
 
@@ -42,10 +42,21 @@ else{
 
 ````
 
-## Antlr Pretty Print Solidity 구현
+## [Antlr Pretty Print Solidity 구현](./prettyPrintSolidity)
 
 #### ✔ 사용언어 : Python
 
 #### ✔ 구현방식 : Visitor
 
-#### ✔ 구현과정 : https://github.com/kimjihyeon99/kimjihyeon99.github.io/blob/main/_posts/2021-04-05-%5BAntlr%5D%20Solidity%20Pretty%20Print.markdown
+#### ✔ [구현과정](https://github.com/kimjihyeon99/kimjihyeon99.github.io/blob/main/_posts/2021-04-05-Solidity%20Pretty%20Print.md)
+
+
+## [Antlr Pretty Print Json_link 구현](./prettyPrint_json_link)
+
+#### ✔ 사용언어 : Python
+
+#### ✔ 구현방식 : Visitor
+
+#### ✔ [구현과정](https://github.com/kimjihyeon99/kimjihyeon99.github.io/blob/main/_posts/2021-06-28-python_json_solidity.md)
+
+
