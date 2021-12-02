@@ -48,15 +48,9 @@ else{
 
 #### ✔ 구현방식 : Visitor
 
-#### ✔ [구현과정](https://github.com/kimjihyeon99/kimjihyeon99.github.io/blob/main/_posts/2021-04-05-Solidity%20Pretty%20Print.md)
-
 
 ## [Antlr Pretty Print Json_link 구현](./prettyPrint_json_link)
 
 #### ✔ 사용언어 : Python
 
 #### ✔ 구현방식 : Visitor
-
-#### ✔ [구현과정](https://github.com/kimjihyeon99/kimjihyeon99.github.io/blob/main/_posts/2021-06-28-python_json_solidity.md)
-
-
